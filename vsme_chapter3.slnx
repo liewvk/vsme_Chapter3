@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../Example3.8/Example3.8.csproj" />
+  <Project Path="../Example_3.7/Example_3.7.csproj" />
+  <Project Path="vsme_Chapter3.csproj" />
+</Solution>
